@@ -6,3 +6,5 @@ description: Personal tech blog about Machine Learning, AI, WIFI, Linux etc.
 markdown: kramdown
 permalink:        pretty
 #encoding:         UTF-8
+
+url: http://bottomdata.com/
