@@ -8,5 +8,7 @@
     </a>
 {% endif %}
 </h1>
-<div class="entry-content">{{ content }}</div>
+
+<!--<div class="entry-content">{{ content }}</div>-->
+<div class="entry-content">{{ page.content | markdownify }}</div>
 
