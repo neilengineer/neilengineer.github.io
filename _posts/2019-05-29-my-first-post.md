@@ -3,7 +3,7 @@ layout: default
 title: First tech blog on github pages is alive!
 ---
 
-#First tech blog on github pages is alive!
+# First tech blog on github pages is alive!
 
 My tech blog on github pages is alive!
 
